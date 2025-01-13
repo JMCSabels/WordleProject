@@ -1,3 +1,5 @@
+#finds the most common letter in each spot from a list of words, used to solve a word puzzle
+
 def printBiggest(First):
 
     for f in range(5):
